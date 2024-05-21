@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjarbek-007
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning GOLANG
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
