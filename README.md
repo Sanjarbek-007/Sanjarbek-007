@@ -58,10 +58,10 @@
 <hr>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dostonshernazarov&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dostonshernazarov&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dostonshernazarov&theme=cobalt2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjarbek-007&theme=cobalt2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanjarbek-007&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanjarbek-007&theme=cobalt2)
 
 
 <div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=dostonshernazarov&style=for-the-badge" alt="dostonshernazarov" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Sanjarbek-007&style=for-the-badge" alt="dostonshernazarov" />
 </div>
