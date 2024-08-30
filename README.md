@@ -10,8 +10,7 @@
   <pre>I am a Go backend, data science, and machine learning developer passionate about building intelligent systems. 
     I enjoy tackling complex challenges at the intersection of code and data analysis.</pre>
   <p align="center">
-    <a href="https://www.linkedin.com/in/doston-shernazarov" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dostonshernazarov" /> </a>
-    <a href="https://www.instagram.com/doston_shernazarov_/" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/doston_shernazarov_/"/> </a>
+    <a href="https://www.linkedin.com/in/sanjarbek-abduraxmonov-97848b2b6" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjarbek-abduraxmonov-97848b2b6" /> </a>
     <a href = "mailto:dostonshernazarov2001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
     <a href="https://t.me/dostonshernazarov"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
   </p>
@@ -63,5 +62,5 @@
 
 
 <div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=Sanjarbek-007&style=for-the-badge" alt="dostonshernazarov" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Sanjarbek-007&style=for-the-badge" alt="SanjarbekAbduraxmonov" />
 </div>
